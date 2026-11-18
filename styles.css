@@ -19,10 +19,10 @@
   --border-strong: #cbd5e1;
 
   /* Try changing --accent to #7c3aed (purple) or #059669 (emerald)! */
-  --accent: #0284c7;
-  --accent-hover: #0369a1;
-  --accent-soft: rgba(2, 132, 199, 0.1);
-  --accent-contrast: #ffffff;
+  --accent: #059669;
+--accent-hover: #047857;
+--accent-soft: rgba(5, 150, 105, 0.12);
+--accent-contrast: #ffffff;
 
   --success: #10b981;
   --shadow-sm: 0 1px 2px rgba(15, 23, 42, 0.05);
@@ -31,7 +31,7 @@
 
   --radius-sm: 8px;
   --radius-md: 12px;
-  --radius-lg: 18px;
+  --radius-lg: 24px;
   --radius-pill: 9999px;
 }
 
@@ -49,10 +49,10 @@
   --border-subtle: #1e293b;
   --border-strong: #334155;
 
-  --accent: #38bdf8;
-  --accent-hover: #7dd3fc;
-  --accent-soft: rgba(56, 189, 248, 0.14);
-  --accent-contrast: #082f49;
+ --accent: #34d399;
+--accent-hover: #6ee7b7;
+--accent-soft: rgba(52, 211, 153, 0.15);
+--accent-contrast: #064e3b;
 
   --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.35);
   --shadow-md: 0 12px 32px -12px rgba(0, 0, 0, 0.5);
